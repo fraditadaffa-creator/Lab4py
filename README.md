@@ -1,4 +1,4 @@
 # Tugas Pratikum 4
-# Nama = Luthfi Daffa Fradita
-# Nim = 312510354
-# Kelas = TI.25.C5
+-  Nama : Luthfi Daffa Fradita
+-  Kelas : TI.25.C5
+-  Nim : 312510354
